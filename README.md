@@ -5,7 +5,9 @@
 ## Todo:
 
 - [x] Dart 命令行环境
+- [ ] Command 封装
 - [ ] 图片同步配置文件
+- [ ] Pub Global
 
 ## 搭建 Dart 命令行开发环境
 
@@ -34,3 +36,7 @@ $ dsync
 ## 实践
 
 根据想要的功能，来一步步的实现。
+
+## See Also
+
+- [create-a-command-line-app](https://medium.com/@m_knabe/create-a-command-line-app-with-dart-8633d3d4a437)
